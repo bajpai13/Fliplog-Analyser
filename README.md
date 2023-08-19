@@ -33,6 +33,8 @@ Download the Embedding Model "all-MiniLM-L6-v2" from the below link.
 
 https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
 
+Add the locations wherever, you have completed the downloads to backend.py.
+
 Installation is complete.
 
 ## Approach 
@@ -49,14 +51,16 @@ Installation is complete.
 - Compliance Report Access: To access the compliance report, simply click on the "View Compliance Report" button. Review the findings and make informed decisions.
 ## Usage/Examples
 
+The following commands need to be executed in the order in GitBash.
+1)
 ```bash 
 virtualenv venv
 ```
-
+2)
 ```bash
 source venv/Scripts/activate
 ```
-
+3)
 ```bash
 streamlit run backend.py 
 ```
@@ -77,6 +81,10 @@ This project is created by -
 - Samyak Jain 
 - Sameer Bajpai
 ## 🔗 Links
+
+[Aditya's Github](https://github.com/gurjaraditya)
+[Samyak's Github](https://github.com/Sam9685)
+[Sameer's Github](https://github.com/bajpai13)
 
 This project is created by -  
 
