@@ -52,15 +52,14 @@ Installation is complete.
 ## Usage/Examples
 
 The following commands need to be executed in the order in GitBash.
-1)
 ```bash 
 virtualenv venv
 ```
-2)
+
 ```bash
 source venv/Scripts/activate
 ```
-3)
+
 ```bash
 streamlit run backend.py 
 ```
@@ -71,6 +70,7 @@ streamlit run backend.py
 
 ## Screenshots
 
+### The interface looks like 
 ![App Screenshot](Image1.jpg)
 ![App Screenshot](Image2.jpg)
 
@@ -82,13 +82,10 @@ This project is created by -
 - Sameer Bajpai
 ## 🔗 Links
 
-[Aditya's Github](https://github.com/gurjaraditya)
-[Samyak's Github](https://github.com/Sam9685)
-[Sameer's Github](https://github.com/bajpai13)
+- [Aditya's Github](https://github.com/gurjaraditya) 
+- [Samyak's Github](https://github.com/Sam9685)
+- [Sameer's Github](https://github.com/bajpai13)
 
-This project is created by -  
+ 
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/gurjaraditya)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Sam9685)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/bajpai13)
 
